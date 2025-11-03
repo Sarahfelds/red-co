@@ -1,3 +1,27 @@
+RED. by Sarah - Modern Cosmetics E-commerce SPA
+A high-fidelity, responsive Single Page Application (SPA) mock-up for a contemporary beauty brand.
+
+🌟 Overview
+The RED. by Sarah project is a dynamic, front-end e-commerce concept built entirely with React.js. It is designed to showcase a modern, premium cosmetics brand specializing in lip care, tints, and foundational makeup.
+
+This application highlights key front-end development skills, including complex UI design, component-based architecture, and smooth client-side navigation essential for a quality shopping experience.
+
+🚀 Live Demo
+Experience the site live and fully responsive on Netlify: https://red-co.netlify.app/
+
+✨ Key Features Demonstrated
+Product Catalog View: Displays diverse product collections (THEE SHADES OF RED, TWO SHADES OF GLOSS, etc.) with engaging visual cards.
+
+Detailed Product Pages: Individual product views (LIP TINT, LIP PLUMPER, LIP SHAPE) featuring product descriptions, benefits, and purchase options (color/scent selection).
+
+Intuitive Navigation: Clean header structure (SHOP, ABOUT, FUTURES) and a functional CART(0) placeholder.
+
+Responsive Design: Optimised layout for a seamless experience on both mobile and desktop devices.
+
+Branding & Engagement: Footer includes social links, support contact, and an email subscription form, replicating real-world e-commerce standards.
+
+Component Reusability: Efficiently uses reusable React components for the navigation bar, product cards, and footer sections.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
